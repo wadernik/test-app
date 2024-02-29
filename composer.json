@@ -1,0 +1,18 @@
+{
+    "name": "self/user-app",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Self\\UserApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wadernik"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1"
+    }
+}
